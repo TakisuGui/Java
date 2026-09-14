@@ -1,0 +1,12 @@
+﻿*.class
+*.jar
+*.war
+out/
+build/
+target/
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
