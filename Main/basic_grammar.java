@@ -61,7 +61,7 @@ public class basic_grammar
         }
 
 
-        // 5. 循环
+        // 5. 循环 
         for (int i = 0; i < 3; i++) System.out.println("for i = " + i);
 
         int i = 0;
