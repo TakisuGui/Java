@@ -1,5 +1,6 @@
 package inheritance;
 
+
 /*
     Java只支持单继承，不支持多继承，但支持多层继承
 

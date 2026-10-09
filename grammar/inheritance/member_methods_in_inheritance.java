@@ -1,5 +1,6 @@
 package inheritance;
 
+
 // 继承中成员方法的特点
 public class member_methods_in_inheritance
 {

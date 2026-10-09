@@ -1,5 +1,6 @@
 package inheritance;
 
+
 // 继承中构造方法的特点
 public class constructors_in_inheritance {
     public static void main(String[] args) {
